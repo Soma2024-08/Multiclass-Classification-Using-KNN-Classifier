@@ -93,4 +93,4 @@ The smooth transitions across boundaries demonstrate the **non-parametric nature
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Soma2024-08/Multiclass-Classification-Using-KNN-Classifier
