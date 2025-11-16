@@ -32,6 +32,10 @@ For each metric, we tested multiple values of `k` to find the one that gives the
 ## Results
 
 ### Best `k` for Each Distance Metric
+Below is the summary of the best K value and accuracy obtained for each distance metric used during experimentation:
+<p align="center">
+  <img src="outputs/output1.png" width="500"/>
+</p>
 
 | Distance Metric | Best k | Test Accuracy |
 |-----------------|--------|---------------|
