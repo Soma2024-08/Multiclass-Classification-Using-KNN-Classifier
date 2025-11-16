@@ -72,7 +72,12 @@ The confusion matrix below shows the count of correctly and incorrectly classifi
 
 - **Accuracy:** 0.39  
 - **Macro Average:** Precision = 0.3518, Recall = 0.3589, F1-Score = 0.3379  
-- **Weighted Average:** Precision = 0.3517, Recall = 0.3900, F1-Score = 0.3555  
+- **Weighted Average:** Precision = 0.3517, Recall = 0.3900, F1-Score = 0.3555
+The smooth transitions across boundaries demonstrate the **non-parametric nature of KNN**.
+
+<p align="center">
+  <img src="outputs/output2.png" width="500"/>
+</p>
 
 ---
 
