@@ -51,6 +51,11 @@ The Hamming distance metric achieved the **highest accuracy (40%)** on this subs
 ---
 
 ### Classification Report (Hamming Distance, k=9)
+The confusion matrix below shows the count of correctly and incorrectly classified samples.
+<p align="center">
+  <img src="outputs/output.png" width="500"/>
+</p>
+
 
 | Class       | Precision | Recall | F1-Score | Support |
 |------------|-----------|--------|----------|---------|
